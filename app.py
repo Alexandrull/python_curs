@@ -1,1 +1,3 @@
-course_name = "Hello world!"
+string = "pula"
+if __name__ == '__main__':
+    print(string)
